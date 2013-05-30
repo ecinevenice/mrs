@@ -44,7 +44,7 @@ class CI_Email {
 	public $smtp_host	= '';			// SMTP Server. Example: mail.earthlink.net
 	public $smtp_user	= '';			// SMTP Username
 	public $smtp_pass	= '';			// SMTP Password
-	public $smtp_port	= 25;			// SMTP Port
+	public $smtp_port	= "25";			// SMTP Port
 	public $smtp_timeout	= 5;			// SMTP Timeout in seconds
 	public $smtp_crypto	= '';			// SMTP Encryption. Can be null, tls or ssl.
 	public $wordwrap	= TRUE;			// TRUE/FALSE  Turns word-wrap on/off

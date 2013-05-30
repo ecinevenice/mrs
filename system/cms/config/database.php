@@ -35,8 +35,8 @@
 $db[PYRO_DEVELOPMENT] = array(
 	'hostname'		=> 	'localhost',
 	'username'		=> 	'root',
-	'password'		=> 	'sfssql_2013?',
-	'database'		=> 	'sfs_log_galaxy',
+	'password'		=> 	'',
+	'database'		=> 	'sfs_log',
 	'dbdriver' 		=> 	'mysql',
 	'dbprefix' 		=>	'',
 	'active_r' 		=>	TRUE,
